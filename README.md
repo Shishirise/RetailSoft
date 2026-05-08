@@ -47,13 +47,10 @@ Project Documents contains the project plan, requirements document, test cases, 
 ---
 
 ## Execution Instructions  
-Install project dependencies using  
 
-npm install  
-
-Start the development server using  
-
-npm run dev  
+Local Environment
+macOS / Windows
+Visual Studio Code
 
 ---
 
