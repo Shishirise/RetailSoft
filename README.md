@@ -50,7 +50,7 @@ Project Documents contains the project plan, requirements document, test cases, 
 
 Local Environment
 macOS / Windows
-Visual Studio Code
+/ Visual Studio Code
 
 ---
 
